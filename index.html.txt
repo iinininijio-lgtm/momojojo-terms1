@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>momojojo Terms of Service</title>
+</head>
+<body style="font-family: Arial; max-width: 800px; margin: 40px auto; line-height: 1.6;">
+<h1>momojojo Terms of Service</h1>
+<p><strong>Last Updated: 2026/03/20</strong></p>
+<p>Welcome to <strong>momojojo</strong>. By accessing or playing this game, you agree to these Terms.</p>
+<h2>Eligibility</h2>
+<p>You must be at least 13 years old to play this game.</p>
+<h2>License</h2>
+<p>The game is provided for personal entertainment only. You may not copy, modify, reverse engineer, or resell the game.</p>
+<h2>Service Availability</h2>
+<p>We may update or discontinue the game at any time.</p>
+<h2>User Conduct</h2>
+<p>You agree not to exploit bugs, cheat, or use malicious tools.</p>
+<h2>Disclaimer</h2>
+<p>The game is provided "as is" without warranties.</p>
+<h2>Limitation of Liability</h2>
+<p>The developer is not liable for any damages from using the game.</p>
+<h2>Contact</h2>
+<p>Email: 877637159@qq.com</p>
+</body>
+</html>
